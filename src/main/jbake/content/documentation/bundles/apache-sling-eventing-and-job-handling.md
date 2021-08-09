@@ -245,4 +245,4 @@ As mentioned above, the client sending an event has to mark an event to be distr
 
 ## Sending Scheduled Events
 
-Scheduled events are OSGi events that have been created by the environemnt. They are generated on each application node of the cluster through an own scheduler instance. Sending these events works the same as sending events based on JCR events (see above).
+Scheduled events are OSGi events that have been created by the environment. They are generated on each application node of the cluster through an own scheduler instance. Sending these events works the same as sending events based on JCR events (see above).
